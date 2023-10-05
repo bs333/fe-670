@@ -28,5 +28,4 @@ After successful completion of this course, students will be able to demonstrate
 - Understand the full lifecycle of developing a trading system where advanced trading strategies can be effectively incorporated and updated for better performance and operation efficiency.
 - Learn emerging concepts around quantitative investment decision making using Explainable AI, LLMs, and ESG analytics, etc. Students will be equipped with Python programming skills to explore new techniques.
 
-
 Please refer to the Syllabus for further information.
