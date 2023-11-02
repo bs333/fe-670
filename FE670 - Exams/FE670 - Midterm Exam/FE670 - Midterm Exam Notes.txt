@@ -1,0 +1,15 @@
+FE670 - Midterm Exam
+
+- Will cover 8 lectures
+- Everything will be covered in the lecture notes
+- How do I formulate risk netural portfolio?
+- 15 MC + Short Answer (very simple questions) [45 min]
+- On Canvas
+- BL, Robust Optimization, FM
+- Examples that he gave us (BL example)
+- If he give the views, we wants us to formulate the matrices (K, P matrices)
+- Write the matrices
+- Write legibly
+
+2nd Part
+- Give until end of Friday to finish on data problem (similiar to homework assignments)
